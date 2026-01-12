@@ -8,5 +8,5 @@ timeline
     2023 : Techolve発足
     2024 : formula1_data初版リリース
     2025 : Bowling Club初版リリース
-    2025 : form_creator初版リリース    
+         : form_creator初版リリース    
 ```
