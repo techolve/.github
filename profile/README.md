@@ -9,4 +9,6 @@ timeline
     2024 : formula1_data初版リリース
     2025 : Bowling Club初版リリース
          : form_creator初版リリース    
+    2026 : eq-muster初版リリース
+         : vectana初版リリース
 ```
