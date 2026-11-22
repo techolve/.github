@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:202830,100:007F89&height=200&section=header&text=Techolve&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Tech%20%2B%20Evolve&descAlignY=58&descSize=20" width="100%" alt="header" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techolve/.github/main/profile/assets/techolve-banner-dark.png" />
+  <img src="https://raw.githubusercontent.com/techolve/.github/main/profile/assets/techolve-banner-light.png" width="100%" alt="Techolve" />
+</picture>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=007F89&center=true&vCenter=true&width=600&lines=Technology+%C3%97+Evolution+%F0%9F%9A%80;Open+Source+from+Japan+%F0%9F%87%AF%F0%9F%87%B5;Flutter+%2F+Next.js+%2F+FastAPI" alt="Typing SVG" />
